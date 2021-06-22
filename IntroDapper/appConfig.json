@@ -1,0 +1,5 @@
+{
+  "connectionStrings": {
+    "peopleDb": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=Terje;Integrated Security=True"
+  }
+}
